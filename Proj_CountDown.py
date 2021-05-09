@@ -15,22 +15,3 @@ def countdown():
 
 
 countdown()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
