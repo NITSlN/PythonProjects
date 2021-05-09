@@ -1,6 +1,5 @@
 import time
 
-
 def countdown():
     t = int(input('Enter the time : '))
     while t>0:
