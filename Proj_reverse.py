@@ -1,6 +1,6 @@
 # Write a Python program that accepts a word from the user and reverse it.
 
-a = input('dall input bc:')
+a = input('Enter a word to reverse it:\n')
 list = list(a)
 # print(list)
 lenght = len(a)
